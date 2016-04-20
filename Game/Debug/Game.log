@@ -1,0 +1,260 @@
+﻿Build started 06/10/2015 00:10:15.
+     1>Project "C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Game\Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Birthright.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"SFML-2.2/Include/" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Birthright.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(217): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(217): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(315): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(315): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(318): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(318): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(329): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(330): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(340): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(340): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(341): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(341): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(348): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(349): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(409): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(409): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(412): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(412): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(417): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(417): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(420): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(420): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(437): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(437): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(438): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(438): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(527): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(527): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(528): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(528): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(531): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(531): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(532): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(532): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(535): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(535): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(536): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(536): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(545): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(547): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(548): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(549): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(550): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(553): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(553): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(554): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(554): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(557): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(557): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(558): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(558): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(562): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(562): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(572): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(573): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(576): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(580): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(580): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(581): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(581): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(584): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(584): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(585): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(585): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(599): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(604): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(604): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(605): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(605): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(608): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(608): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(622): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(622): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(625): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(625): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(639): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(639): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(643): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(643): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(647): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(647): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(652): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(652): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(653): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(653): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(668): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(668): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(673): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(673): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(674): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(674): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(686): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(686): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(698): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(698): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(713): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(716): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(716): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(718): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(728): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(728): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(739): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(739): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(750): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(750): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(758): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(758): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(760): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(760): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(765): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(765): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(766): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(766): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(778): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(778): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(790): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(790): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(804): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(815): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(815): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(826): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(826): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(837): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(837): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(845): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(845): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(847): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(847): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(853): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(857): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(857): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(864): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(867): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(867): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(871): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(871): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(873): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(874): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(874): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(879): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(882): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(882): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(890): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(893): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(893): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(897): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(897): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(902): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(905): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(905): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(913): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(916): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(916): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(920): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(920): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(925): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(928): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(928): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(937): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(937): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(939): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(939): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(948): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(948): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(951): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(951): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(957): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(961): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(961): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(965): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(965): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(966): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(966): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(978): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(988): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(988): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1011): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1011): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1021): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1024): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1024): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1033): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1033): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1039): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1039): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1041): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1041): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1047): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1060): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1060): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1063): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1063): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1069): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1069): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1070): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1070): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1092): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1092): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1096): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1096): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1097): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1097): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1117): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1117): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1261): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1262): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1294): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1295): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1298): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1340): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1419): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1448): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(1575): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(2023): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(2028): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(2056): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\elliot\documents\visual studio 2010\projects\game\game\game.cpp(2061): warning C4018: '<' : signed/unsigned mismatch
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\Birthright.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"SFML-2.2/lib/" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "sfml-system-d.lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Birthright.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\Birthright.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\Birthright.lib" /MACHINE:X86 Debug\icon.res
+         Debug\Battle.obj
+         Debug\Combatant.obj
+         Debug\FileReader.obj
+         Debug\Game.obj
+         Debug\Grapple.obj
+         Debug\Obstacle.obj
+         Debug\Protag.obj
+         Debug\stdafx.obj
+     1>Battle.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     1>sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\vc100.pdb'; linking object as if no debug info
+         Game.vcxproj -> C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\Birthright.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Debug\Birthright.exe;#1" /manifest Debug\Birthright.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Birthright.unsuccessfulbuild".
+         Touching "Debug\Birthright.lastbuildstate".
+     1>Done Building Project "C:\Users\Elliot\Documents\Visual Studio 2010\Projects\Game\Game\Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
